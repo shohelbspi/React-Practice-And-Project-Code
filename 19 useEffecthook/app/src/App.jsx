@@ -1,0 +1,30 @@
+import { useEffect, useState } from 'react'
+
+import './App.css'
+
+function App() {
+  const [count, setCount] = useState(0)
+  const [decVal, setDecVal] = useState(0)
+
+  useEffect(()=>{
+    alert('ami use effect function er vitor')
+  },[decVal])
+
+  return (
+    <div>
+      <h1>{count}</h1>
+      <button onClick={()=>{
+        setCount(count+1)
+      }}>Increment</button>
+
+      <h1>{decVal}</h1>
+
+      <button onClick={()=>{
+        setDecVal(decVal-1)
+      }}>Decrement</button>
+    </div>
+
+  )
+}
+
+export default App
