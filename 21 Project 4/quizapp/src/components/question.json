@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Which language runs in a web browser?",
+    "options": ["Java", "C", "Python", "JavaScript"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": [
+      "Central Style Sheets",
+      "Cascading Style Sheets",
+      "Cascading Simple Sheets",
+      "Cars SUVs Sailboats"
+    ],
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "question": "What year was JavaScript launched?",
+    "options": ["1996", "1995", "1994", "None of the above"],
+    "answer": "1995"
+  },
+  {
+    "question": "Which HTML tag is used to include JavaScript?",
+    "options": ["<javascript>", "<script>", "<js>", "<code>"],
+    "answer": "<script>"
+  },
+  {
+    "question": "Which company developed JavaScript?",
+    "options": ["Microsoft", "Netscape", "Google", "Oracle"],
+    "answer": "Netscape"
+  },
+  {
+    "question": "Which keyword is used to declare a constant in JavaScript?",
+    "options": ["let", "const", "var", "static"],
+    "answer": "const"
+  },
+  {
+    "question": "Which method is used to print something in the browser console?",
+    "options": [
+      "console.print()",
+      "print()",
+      "console.log()",
+      "log.console()"
+    ],
+    "answer": "console.log()"
+  },
+  {
+    "question": "Which symbol is used for single-line comments in JavaScript?",
+    "options": ["<!-- -->", "/* */", "//", "#"],
+    "answer": "//"
+  },
+  {
+    "question": "Which array method adds an element to the end of an array?",
+    "options": ["push()", "pop()", "shift()", "unshift()"],
+    "answer": "push()"
+  },
+  {
+    "question": "Which array method removes the last element of an array?",
+    "options": ["push()", "shift()", "pop()", "slice()"],
+    "answer": "pop()"
+  },
+  {
+    "question": "Which keyword is used to declare a variable with block scope?",
+    "options": ["var", "let", "define", "int"],
+    "answer": "let"
+  },
+  {
+    "question": "Which operator is used for strict equality in JavaScript?",
+    "options": ["==", "=", "===", "!="],
+    "answer": "==="
+  },
+  {
+    "question": "Which function converts a JSON string into a JavaScript object?",
+    "options": [
+      "JSON.stringify()",
+      "JSON.parse()",
+      "JSON.convert()",
+      "JSON.object()"
+    ],
+    "answer": "JSON.parse()"
+  },
+  {
+    "question": "Which React hook is used to manage state?",
+    "options": ["useEffect", "useState", "useContext", "useMemo"],
+    "answer": "useState"
+  },
+  {
+    "question": "Which React hook is used for side effects?",
+    "options": ["useState", "useRef", "useEffect", "useReducer"],
+    "answer": "useEffect"
+  }
+]
