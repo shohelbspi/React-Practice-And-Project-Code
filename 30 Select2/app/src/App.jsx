@@ -1,11 +1,11 @@
 import './App.css'
-import DependSelect from './components/DependSelect'
+import PracticeForm from './components/PracticeForm'
 
 function App() {
 
   return (
     <>
-     <DependSelect/>
+     <PracticeForm/>
     </>
   )
 }
