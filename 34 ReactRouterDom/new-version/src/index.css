@@ -1,0 +1,13 @@
+
+@import "tailwindcss";
+
+a:hover{
+  color: tomato;
+}
+
+.page 
+{
+  height: 95vh;
+  background-color: rgb(90, 84, 84);
+  color: white;
+}
